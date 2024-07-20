@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f4299ebd35f9b32468beadbf1a0eee33
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {fileID: 4214255682060245061, guid: 151d9d2933c936f409dd5d667eb5fb66, type: 3}
+  - sceneFaderPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
